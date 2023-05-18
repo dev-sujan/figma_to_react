@@ -1,5 +1,3 @@
-
-
 const Navigation = () => {
   return (
     <nav className="container">
