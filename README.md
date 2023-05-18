@@ -43,4 +43,4 @@
 
 <!-- All Links -->
 
-[figmaLink]: https://www.figma.com/file/sQ7YR00sm3Tiu2P50Lasmd/Figma-to-React-(Nike-Shoe)?type=design&node-id=0%3A1&t=EfSwHkS5rDShfaoJ-1
+[figmaLink]: https://www.figma.com/file/sQ7YR00sm3Tiu2P50Lasmd/Figma-to-React?type=design&t=tWAVz6goWEZu30IE-1
