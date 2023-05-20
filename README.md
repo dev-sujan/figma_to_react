@@ -39,7 +39,7 @@
 
 ## Figma Design link
 
-[figma-to-react](figmaLink)
+[figma-to-react](https://www.figma.com/file/sQ7YR00sm3Tiu2P50Lasmd/Figma-to-React?type=design&node-id=0%3A1&t=XyQhsLg2YcnFRRXK-1)
 
 <!-- All Links -->
 
